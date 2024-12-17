@@ -247,5 +247,5 @@ if __name__ == "__main__":
         'frames_per_segment': 20,
         'max_segments': 4
     }
-    test_frame_sampling() # should output (4, 20, 368, 640, 3) or (max_segments, frames_per_segment, h, w, c). Cropping done in VideoProcessor
+    test_frame_sampling() # should output (4, 20, H, W, 3) (uncropped) or (max_segments, frames_per_segment, h, w, c). Cropping done in VideoProcessor
     test_recon()
