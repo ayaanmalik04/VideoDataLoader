@@ -3,5 +3,15 @@
         "idx": 0, 
         "path": "videos/sample.mp4", 
         "action": "A scenic view of mountains."
+    },
+    {
+        "idx": 1, 
+        "path": "videos/sample.mp4", 
+        "action": "sample action"
+    },
+    {
+        "idx": 2, 
+        "path": "videos/sample.mp4", 
+        "action": "sample action"
     }
 ]
