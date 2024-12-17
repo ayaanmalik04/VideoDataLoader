@@ -1,4 +1,4 @@
-#VideoDataLoader
+# VideoDataLoader
 
 ### (All code and experiments were done to accomodate for CPUs. I did not have access to a GPU (even on Colab due to region restrictions I believe) so I could not experiment with direct-to-GPU methods or large chunk/batch sizes)
 
